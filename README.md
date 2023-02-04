@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Research Assistant at Rehabiliation Medicine Lab!
-- 🧑🏻‍💻 I'm currently working on Whaler Technologies Inc as develop team manager!
+- 🧑🏻‍💻 I'm currently working on Whaler Technologies Inc
 - 🌱 I’m currently studying computer science
 - 💬 Ask me about 🎬 Film, 🍻 Cooking
 - 📫 How to reach me: kyongbin4@gmail.com
