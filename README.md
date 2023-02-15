@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Check out my Personal Blog! >>>> https://yongbin4.github.io
+
 - 🔭 I’m currently working as Research Assistant at Rehabiliation Medicine Lab!
 - 🧑🏻‍💻 I'm currently working on Whaler Technologies Inc
 - 🌱 I’m currently studying computer science
