@@ -22,4 +22,4 @@ Check out my Personal Blog! >>>> https://yongbin4.github.io
 - 🌱 I’m currently studying computer science
 - 💬 Ask me about 🎬 Film, 🍻 Cooking
 - 📫 How to reach me: kyongbin4@gmail.com
-- ⚡ Fun fact: Stayed at 🇵🇸 U.A.E for 4 years
+- ⚡ Fun fact: Studied at 🇵🇸 U.A.E for 4 years
