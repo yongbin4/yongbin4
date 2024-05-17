@@ -5,7 +5,7 @@
   <h3>🔭 I worked as a Software Developer at Rehabilitation Medicine Lab and Whaler Tech!</h3>
   <h3>🌱 I’m currently studying computer science</h3>
   <h3>💬 Ask me about 🎬 Film, 🍻 Cooking, 🖥️ Investing </h3>
-  <h3>⚡ Fun fact: Studied at 🇵🇸 Dubai for 4 years</h3>
+  <h3>⚡ Fun fact: Studied at 🇦🇪 Dubai for 4 years</h3>
 </section>
 <br>
 
