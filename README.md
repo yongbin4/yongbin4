@@ -1,6 +1,14 @@
 <header align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yongbin%20Kim&fontColor=20c997">
 </header>
+
+<section align="center">
+  <h3>🔭 I worked as a Software Developer at Rehabilitation Medicine Lab and Whaler Tech!</h3>
+  <h3>🌱 I’m currently studying computer science</h3>
+  <h3>💬 Ask me about 🎬 Film, 🍻 Cooking</h3>
+  <h3>⚡ Fun fact: Studied at 🇵🇸 Dubai for 4 years</h3>
+</section>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -83,11 +91,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my Personal Blog! >>>> https://yongbin4.github.io
 
-- 🔭 I’m currently working as Research Assistant at Rehabiliation Medicine Lab!
-- 🧑🏻‍💻 I'm currently working on Whaler Technologies Inc
-- 🌱 I’m currently studying computer science
-- 💬 Ask me about 🎬 Film, 🍻 Cooking
-- 📫 How to reach me: kyongbin4@gmail.com
-- ⚡ Fun fact: Studied at 🇵🇸 U.A.E for 4 years
