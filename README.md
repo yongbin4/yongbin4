@@ -1,5 +1,5 @@
 <header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yongbin%20Kim&fontColor=20c997">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Andrew%20Kim&fontColor=20c997">
 </header>
 <section align="center">
   <h3>🔭 I worked as a Software Developer at Rehabilitation Medicine Lab and Whaler Tech!</h3>
