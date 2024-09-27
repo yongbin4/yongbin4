@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Andrew%20Kim&fontColor=20c997">
 </header>
 <section align="center">
+  <h2>Checkout My Website</h2>
+  <h2>https://www.andrewdev.ca/</h2>
   <h3>🔭 I worked as a Software Developer at Rehabilitation Medicine Lab and Whaler Tech!</h3>
   <h3>🌱 I’m currently studying computer science</h3>
   <h3>💬 Ask me about 🎬 Film, 🍻 Cooking, 🖥️ Investing </h3>
