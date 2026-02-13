@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Andrew%20Kim&fontColor=20c997">
 </header>
 <section align="center">
-  <h3>🔭 I worked as a Software Engineer at TELUS, Rehabilitation Medicine Lab and Whaler Tech!</h3>
-  <h3>🌱 I’m currently studying computer science</h3>
+  <h3>🔭 I am a L2 Software Engineer at TELUS!</h3>
+  <h3>🌱 I've graduated from University of Alberta</h3>
   <h3>💬 Ask me about 🎬 Film, 🍻 Cooking, 🖥️ Investing </h3>
   <h3>⚡ Fun fact: Studied at 🇦🇪 Dubai for 4 years</h3>
 </section>
