@@ -15,7 +15,7 @@
   <a href="https://yongbin4.github.io">
     <img src="https://img.shields.io/badge/Jekyll-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:kyongbin4@gmail.com">
+  <a href="mailto:andrew.yb.kim@gmail.com">
     <img
       src="https://img.shields.io/badge/kyongbin4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
